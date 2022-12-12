@@ -21,7 +21,7 @@ X-avax1ju2khnvkex4u30rt5jm5x8jd3jdfhvawg7ed9x - Avalanche hot wallet
 19PYCUcpLsUSFUeLt4u9a1z8QyJYQMyGqB - Bitcoin Cash hot wallet
 bitcoincash:prseh0a4aejjcewhc665wjqhppgwrz2lw5txgn666a - Bitcoin Cash cold wallet
 bitcoincash:qpnrayau0ax6qcwlxhdzp8kze5gfjwlznygdmdpwjv - Bitcoin SV hot wallet
-14BMRtbwkhFME8pjPkn17hKesesD99EVKs - Bitcoin SV cold wallet
+1JCtg7CEqifVoTjEiCDSAJzqk2AAWsZtY6 - Bitcoin SV cold wallet
 VJLAYX5DZX1KuCBvAdR8ob6S9yLpyhc4y5gCyRoVDEYMZVCszi58rkwpytX3WAtx2e8sB4pRpSwR153Z (AMP ID: GA3fBygpY36J6tbgEBD661dy74Mxeg) - Blockstream Mining Note (BMN) hot wallet
 0x16c633f1afc23dc14e29e2c3220a4b5e4a5260a0 - Callisto hot wallet
 certik1azxdh422fnx4df78xsk3j4vsz2wl224wt5tfwd - Certik hot wallet
